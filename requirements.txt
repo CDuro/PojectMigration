@@ -9,3 +9,4 @@ dash-html-components
 pandas
 numpy
 scikit-learn 
+xlrd
